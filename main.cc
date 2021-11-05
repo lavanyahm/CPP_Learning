@@ -1,4 +1,4 @@
-//Inital Code
+//Inital Code Sorting 
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -20,6 +20,6 @@ int  main(){
 
         for(int i=0;i<5;i++)
                 cout<<ar[i]<<"  ";
-         return 0;
+return 0;
 
 }

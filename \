@@ -1,0 +1,9 @@
+git push --force origin main
+
+git commit -m "Initial Code for sorting"
+git config --global user.name "lavanyahm"
+git config --local user.name "lavanyahm"
+git config --list
+
+
+Generate Token from seting
